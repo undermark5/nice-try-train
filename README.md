@@ -1,5 +1,7 @@
 # nice try, train
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/nice-try-train.svg)](https://greenkeeper.io/)
+
 prevent death when a player is hit by a train in factorio ⚙️
 
 ## usage
